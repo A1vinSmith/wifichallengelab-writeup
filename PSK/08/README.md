@@ -11,4 +11,6 @@ aircrack-ng wifi-mobile-01.cap -w /usr/share/wordlists/rockyou.txt
 Reading packets, please wait...
 Opening wifi-mobile-01.cap
 Read 346 packets.
+
+KEY FOUND! [ starwars1 ]
 ```
